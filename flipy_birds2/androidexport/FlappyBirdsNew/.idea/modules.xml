@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlappyBirdsNew.iml" filepath="$PROJECT_DIR$/FlappyBirdsNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoogleMobileAdsPlugin.androidlib/GoogleMobileAdsPlugin.androidlib.iml" filepath="$PROJECT_DIR$/GoogleMobileAdsPlugin.androidlib/GoogleMobileAdsPlugin.androidlib.iml" />
+    </modules>
+  </component>
+</project>

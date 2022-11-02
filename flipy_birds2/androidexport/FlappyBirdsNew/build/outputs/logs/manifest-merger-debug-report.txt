@@ -1,0 +1,565 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\564d82811624d933fd131edc49e176b8\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\da554a96209aed1385aae36607bc72cc\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ccb0291bfb2c243b61f99f9da1130bab\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\50d8d0fc2d047552b5647d63859b549e\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\507371d32b2a3c3bbb7314b7dd80cf8d\AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9ba55aa3d6802b37a908ebb8f90c96c1\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\b77f146ef23a623a42f2c4bca397b2c0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\89a84c17e83028c8cb0085188933a493\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\1e1b363b534aadea1064a47e4428b688\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\79d1e5fa4e002589c796ddb55e86dc8d\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\7bc3f8b93013e56089f4cdb8f2b20297\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\2a82622ca93ac07becb260297d6eedd0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8a00749f39cd5b6620ff20c06685cf54\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a2213a77c299f7aae801e3ce65482530\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\c8c4ce8a4b1bf70785c823973b1b5393\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8e1b953835fe5dd87cb1014cb4245982\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-service-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\22d909e1c84bcae46bf9ada198025aea\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\66a855c240a7da716bbef136af0d7629\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\5a36cc369f94f06fadc6212afcacf9c8\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8c3bd8c8cd3d15f3f970bd968159dcd1\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\62e6898ea20b5990f6cde66391d5af1d\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.room.room-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a7dea8fd56b8d6942165a79b31382467\AndroidManifest.xml:17:1-30:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9d23003a1eefaff9f38c28d20b14a7cf\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.sqlite.sqlite-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\c8dda178303297581ce42e432d303040\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.sqlite.sqlite-framework-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\72cf9c8253f07e2ec165fbcdfe0d9879\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a94e00df202b7b10b5511cb44f2679b0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\08daa190549a83f52e8e98baab9edcf8\AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\0decee9e36c4e36f830b00e747403de7\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:17:1-63:12
+MERGED from [:com.google.android.gms.play-services-ads-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ba8189b16aa42419cc3c152c8a728175\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-ads-base-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bc101d3d74b0044cdffb1f35d328abde\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9683af4eeb51c689424c0efa5e96e0e4\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:17:1-43:12
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bdc982bb1274086ad93f21058f06b077\AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-gass-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\7e9d6ae3ac3ce76a9f2a58f5a6a1cfd4\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a10194cd2a749aa02a6ed2a4e0c0e442\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-tasks-17.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ac0ced62ebeb86b08fa200906ed43793\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.ump.user-messaging-platform-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\25f18a23a567fb93c0b969734e43df71\AndroidManifest.xml:2:1-7:12
+MERGED from [:googlemobileads-unity:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\96682dff03ecf110f6ebd6b81b627217\AndroidManifest.xml:7:1-12:12
+MERGED from [:GoogleMobileAdsPlugin.androidlib] E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\GoogleMobileAdsPlugin.androidlib\build\intermediates\lýbrary_manýfest\debug\AndroidManifest.xml:7:1-20:12
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:70-107
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:108-154
+	android:versionCode
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:155-195
+supports-screens
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:4:3-16:17
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\507371d32b2a3c3bbb7314b7dd80cf8d\AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\507371d32b2a3c3bbb7314b7dd80cf8d\AndroidManifest.xml:24:5-89
+MERGED from [:androidx.room.room-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a7dea8fd56b8d6942165a79b31382467\AndroidManifest.xml:24:5-28:19
+MERGED from [:androidx.room.room-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a7dea8fd56b8d6942165a79b31382467\AndroidManifest.xml:24:5-28:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\08daa190549a83f52e8e98baab9edcf8\AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\08daa190549a83f52e8e98baab9edcf8\AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:22:3-62:17
+MERGED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:22:3-62:17
+MERGED from [:com.google.android.gms.play-services-ads-base-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bc101d3d74b0044cdffb1f35d328abde\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-base-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bc101d3d74b0044cdffb1f35d328abde\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9683af4eeb51c689424c0efa5e96e0e4\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9683af4eeb51c689424c0efa5e96e0e4\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:37:3-42:17
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:37:3-42:17
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bdc982bb1274086ad93f21058f06b077\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bdc982bb1274086ad93f21058f06b077\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-gass-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\7e9d6ae3ac3ce76a9f2a58f5a6a1cfd4\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-gass-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\7e9d6ae3ac3ce76a9f2a58f5a6a1cfd4\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a10194cd2a749aa02a6ed2a4e0c0e442\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a10194cd2a749aa02a6ed2a4e0c0e442\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ac0ced62ebeb86b08fa200906ed43793\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ac0ced62ebeb86b08fa200906ed43793\AndroidManifest.xml:7:5-20
+MERGED from [:GoogleMobileAdsPlugin.androidlib] E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\GoogleMobileAdsPlugin.androidlib\build\intermediates\lýbrary_manýfest\debug\AndroidManifest.xml:14:5-18:19
+MERGED from [:GoogleMobileAdsPlugin.androidlib] E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\GoogleMobileAdsPlugin.androidlib\build\intermediates\lýbrary_manýfest\debug\AndroidManifest.xml:14:5-18:19
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.2.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\507371d32b2a3c3bbb7314b7dd80cf8d\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:4:123-144
+activity#com.PazGames.FlappyBirdsNew.UnityPlayerActivity
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:5:48-91
+	android:label
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:5:92-123
+	android:hardwareAccelerated
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:5:306-341
+	android:configChanges
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:5:124-305
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:5:342-404
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:18:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:23:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\96682dff03ecf110f6ebd6b81b627217\AndroidManifest.xml:10:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\96682dff03ecf110f6ebd6b81b627217\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:18:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:19:3-88
+	android:required
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:19:61-85
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:19:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:20:3-99
+	android:required
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:20:72-96
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:20:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:21:3-108
+	android:required
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:21:81-105
+	android:name
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:21:17-80
+uses-sdk
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+MERGED from [:androidx.arch.core.core-runtime-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\564d82811624d933fd131edc49e176b8\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\564d82811624d933fd131edc49e176b8\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\da554a96209aed1385aae36607bc72cc\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\da554a96209aed1385aae36607bc72cc\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ccb0291bfb2c243b61f99f9da1130bab\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ccb0291bfb2c243b61f99f9da1130bab\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\50d8d0fc2d047552b5647d63859b549e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\50d8d0fc2d047552b5647d63859b549e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\507371d32b2a3c3bbb7314b7dd80cf8d\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.2.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\507371d32b2a3c3bbb7314b7dd80cf8d\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9ba55aa3d6802b37a908ebb8f90c96c1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9ba55aa3d6802b37a908ebb8f90c96c1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\b77f146ef23a623a42f2c4bca397b2c0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\b77f146ef23a623a42f2c4bca397b2c0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\89a84c17e83028c8cb0085188933a493\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\89a84c17e83028c8cb0085188933a493\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\1e1b363b534aadea1064a47e4428b688\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\1e1b363b534aadea1064a47e4428b688\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\79d1e5fa4e002589c796ddb55e86dc8d\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\79d1e5fa4e002589c796ddb55e86dc8d\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\7bc3f8b93013e56089f4cdb8f2b20297\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\7bc3f8b93013e56089f4cdb8f2b20297\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\2a82622ca93ac07becb260297d6eedd0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\2a82622ca93ac07becb260297d6eedd0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8a00749f39cd5b6620ff20c06685cf54\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8a00749f39cd5b6620ff20c06685cf54\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a2213a77c299f7aae801e3ce65482530\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a2213a77c299f7aae801e3ce65482530\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\c8c4ce8a4b1bf70785c823973b1b5393\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\c8c4ce8a4b1bf70785c823973b1b5393\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8e1b953835fe5dd87cb1014cb4245982\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8e1b953835fe5dd87cb1014cb4245982\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-service-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\22d909e1c84bcae46bf9ada198025aea\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-service-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\22d909e1c84bcae46bf9ada198025aea\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\66a855c240a7da716bbef136af0d7629\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\66a855c240a7da716bbef136af0d7629\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\5a36cc369f94f06fadc6212afcacf9c8\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\5a36cc369f94f06fadc6212afcacf9c8\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8c3bd8c8cd3d15f3f970bd968159dcd1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\8c3bd8c8cd3d15f3f970bd968159dcd1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\62e6898ea20b5990f6cde66391d5af1d\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\62e6898ea20b5990f6cde66391d5af1d\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.room.room-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a7dea8fd56b8d6942165a79b31382467\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.room.room-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a7dea8fd56b8d6942165a79b31382467\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9d23003a1eefaff9f38c28d20b14a7cf\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9d23003a1eefaff9f38c28d20b14a7cf\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\c8dda178303297581ce42e432d303040\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\c8dda178303297581ce42e432d303040\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-framework-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\72cf9c8253f07e2ec165fbcdfe0d9879\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-framework-2.0.1:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\72cf9c8253f07e2ec165fbcdfe0d9879\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a94e00df202b7b10b5511cb44f2679b0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a94e00df202b7b10b5511cb44f2679b0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\08daa190549a83f52e8e98baab9edcf8\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\08daa190549a83f52e8e98baab9edcf8\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\0decee9e36c4e36f830b00e747403de7\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\0decee9e36c4e36f830b00e747403de7\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:18:3-72
+MERGED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:18:3-72
+MERGED from [:com.google.android.gms.play-services-ads-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ba8189b16aa42419cc3c152c8a728175\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ba8189b16aa42419cc3c152c8a728175\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-base-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bc101d3d74b0044cdffb1f35d328abde\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-base-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bc101d3d74b0044cdffb1f35d328abde\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9683af4eeb51c689424c0efa5e96e0e4\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9683af4eeb51c689424c0efa5e96e0e4\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bdc982bb1274086ad93f21058f06b077\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.6.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bdc982bb1274086ad93f21058f06b077\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-gass-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\7e9d6ae3ac3ce76a9f2a58f5a6a1cfd4\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-gass-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\7e9d6ae3ac3ce76a9f2a58f5a6a1cfd4\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a10194cd2a749aa02a6ed2a4e0c0e442\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a10194cd2a749aa02a6ed2a4e0c0e442\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ac0ced62ebeb86b08fa200906ed43793\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ac0ced62ebeb86b08fa200906ed43793\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.ump.user-messaging-platform-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\25f18a23a567fb93c0b969734e43df71\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.ump.user-messaging-platform-1.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\25f18a23a567fb93c0b969734e43df71\AndroidManifest.xml:5:5-44
+MERGED from [:GoogleMobileAdsPlugin.androidlib] E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\GoogleMobileAdsPlugin.androidlib\build\intermediates\lýbrary_manýfest\debug\AndroidManifest.xml:12:5-47
+MERGED from [:GoogleMobileAdsPlugin.androidlib] E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\GoogleMobileAdsPlugin.androidlib\build\intermediates\lýbrary_manýfest\debug\AndroidManifest.xml:12:5-47
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.google.android.gms.play-services-ads-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ba8189b16aa42419cc3c152c8a728175\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+		ADDED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+		MERGED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+		INJECTED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [:androidx.room.room-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a7dea8fd56b8d6942165a79b31382467\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [:androidx.room.room-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a7dea8fd56b8d6942165a79b31382467\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [:androidx.room.room-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\a7dea8fd56b8d6942165a79b31382467\AndroidManifest.xml:26:13-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:19:3-66
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:19:20-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:20:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-18.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\9cd423a08bd44bf3f262e0bebf4f73f0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:20:20-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:21:3-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:21:20-76
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:23:5-246
+	android:authorities
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:23:72-138
+	android:multiprocess
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:23:196-223
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:23:171-195
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:23:224-243
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:23:139-170
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:23:15-71
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:24:5-229
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:24:122-181
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:24:182-206
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:24:207-226
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:24:90-121
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:24:14-89
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:25:5-279
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:25:118-175
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:25:176-199
+	android:permission
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:25:200-256
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:25:257-276
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:25:86-117
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:25:14-85
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:26:5-193
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:26:123-145
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:26:146-170
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:26:171-190
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:26:91-122
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:26:15-90
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:27:5-32:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:27:141-164
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:27:165-189
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:27:190-209
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:27:109-140
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:27:15-108
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:28:7-31:23
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:29:9-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:29:17-76
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:30:9-82
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:30:17-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:33:5-38:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:33:139-162
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:33:163-187
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:33:188-207
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:33:107-138
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:33:15-106
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:34:7-37:23
+action#android.intent.action.BATTERY_OKAY
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:35:17-66
+action#android.intent.action.BATTERY_LOW
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:36:17-65
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:39:5-44:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:39:139-162
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:39:163-187
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:39:188-207
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:39:107-138
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:39:15-106
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:40:7-43:23
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:41:9-75
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:41:17-72
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:42:9-74
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:42:17-71
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:45:5-49:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:45:138-161
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:45:162-186
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:45:187-206
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:45:106-137
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:45:15-105
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:46:7-48:23
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:47:9-71
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:47:17-68
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:50:5-56:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:50:123-146
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:50:147-171
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:50:172-191
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:50:91-122
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:50:15-90
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:51:7-55:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:52:9-71
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:52:17-68
+action#android.intent.action.TIME_SET
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:53:9-65
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:53:17-62
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:54:9-73
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:54:17-70
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:57:5-61:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:57:134-193
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:57:194-218
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:57:219-238
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:57:102-133
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:57:15-101
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:58:7-60:23
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:59:9-90
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.1.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ce016cc450a57aff5f8bcf50240dc163\AndroidManifest.xml:59:17-87
+queries
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:23:3-36:13
+intent
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:25:5-29:14
+action#android.intent.action.VIEW
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:26:7-59
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:26:15-56
+category#android.intent.category.BROWSABLE
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:27:7-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:27:17-65
+data
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:28:7-38
+	android:scheme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:28:13-35
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:39:5-254
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:39:178-202
+	android:configChanges
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:39:68-177
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:39:203-251
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:39:15-67
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:40:5-202
+	android:authorities
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:40:79-150
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:40:151-175
+	android:initOrder
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:40:176-199
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:40:15-78
+service#com.google.android.gms.ads.AdService
+ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:41:5-116
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:41:66-88
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:41:89-113
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-20.0.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\ae05fed84790456362ece44f6df673be\AndroidManifest.xml:41:14-65
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.6.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bdc982bb1274086ad93f21058f06b077\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.6.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bdc982bb1274086ad93f21058f06b077\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.6.0:] C:\Users\mazlum\.gradle\caches\transforms-2\files-2.1\bdc982bb1274086ad93f21058f06b077\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12 reason: com.google.unity.ads has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12 reason: com.google.unity.ads has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\src\main\AndroidManifest.xml:2:1-22:12 reason: com.google.unity.ads requested WRITE_EXTERNAL_STORAGE
+uses-library#org.apache.http.legacy
+ADDED from [:GoogleMobileAdsPlugin.androidlib] E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\GoogleMobileAdsPlugin.androidlib\build\intermediates\lýbrary_manýfest\debug\AndroidManifest.xml:15:9-17:40
+	android:required
+		ADDED from [:GoogleMobileAdsPlugin.androidlib] E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\GoogleMobileAdsPlugin.androidlib\build\intermediates\lýbrary_manýfest\debug\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [:GoogleMobileAdsPlugin.androidlib] E:\Yedek\oyunlar\flipy_birds2\androidexport\FlappyBirdsNew\GoogleMobileAdsPlugin.androidlib\build\intermediates\lýbrary_manýfest\debug\AndroidManifest.xml:16:13-50

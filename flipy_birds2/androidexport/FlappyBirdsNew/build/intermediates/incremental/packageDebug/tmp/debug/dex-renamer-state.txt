@@ -1,0 +1,4 @@
+#Thu May 20 18:20:01 EET 2021
+base.0=E\:\\Yedek\\oyunlar\\flipy_birds2\\androidexport\\FlappyBirdsNew\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
